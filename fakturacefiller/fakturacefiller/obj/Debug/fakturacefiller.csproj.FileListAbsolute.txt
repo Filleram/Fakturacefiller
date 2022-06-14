@@ -1,0 +1,9 @@
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\bin\Debug\fakturacefiller.exe.config
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\bin\Debug\fakturacefiller.exe
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\bin\Debug\fakturacefiller.pdb
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\obj\Debug\fakturacefiller.csprojAssemblyReference.cache
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\obj\Debug\fakturacefiller.Properties.Resources.resources
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\obj\Debug\fakturacefiller.csproj.GenerateResource.cache
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\obj\Debug\fakturacefiller.csproj.CoreCompileInputs.cache
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\obj\Debug\fakturacefiller.exe
+C:\Users\filler.adam\source\repos\fakturacefiller\fakturacefiller\obj\Debug\fakturacefiller.pdb
